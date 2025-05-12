@@ -8,8 +8,8 @@
 >
 
 >[!NOTE]
-> # *root@sandbox:/Github/aaron-repoadmin#``` nano create_github_repo.sh ```   <br />
->** root@sandbox:/Github/aaron-repoadmin#``` chmod +x create_github_repo.sh ```  <br />
+> * root@sandbox:/Github/aaron-repoadmin#``` nano create_github_repo.sh ```  * <br />
+> * root@sandbox:/Github/aaron-repoadmin#``` chmod +x create_github_repo.sh ```  *<br />
 >root@sandbox:/Github/aaron-repoadmin#``` ./create_github_repo.sh ```  <br />
 >Repository name [aaron-repoadmin]: ```[ENTER]```  <br />
 >Repository description (optional): ```A custom bash script for linux terminal coding and committing to github repositories. Makes sharing code publicly or privately simple from a linux terminal once gh has been installed.```  <br />
