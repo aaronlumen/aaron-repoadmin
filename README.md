@@ -8,18 +8,18 @@
 >
 
 >[!NOTE]
->** root@sandbox:/Github/aaron-repoadmin#``` nano create_github_repo.sh ```  
->** root@sandbox:/Github/aaron-repoadmin#``` chmod +x create_github_repo.sh ```  
->root@sandbox:/Github/aaron-repoadmin#``` ./create_github_repo.sh ```  
->Repository name [aaron-repoadmin]: ```[ENTER]```  
->Repository description (optional): ```A custom bash script for linux terminal coding and committing to github repositories. Makes sharing code publicly or privately simple from a linux terminal once gh has been installed.```  
->Private repository? [y/N]: ```N```  
->GitHub username: ```aaronlumen```  
->Personal Access Token (will not echo):```                   ```  
->Remote type (ssh/https) [ssh]: ```^M```  
->* Creating GitHub repository using api integration: 'aaron-repoadmin'...  
->* Repository 'aaron-repoadmin' created on GitHub.  
->* Initializing local repository...  
+> # *root@sandbox:/Github/aaron-repoadmin#``` nano create_github_repo.sh ```   <br />
+>** root@sandbox:/Github/aaron-repoadmin#``` chmod +x create_github_repo.sh ```  <br />
+>root@sandbox:/Github/aaron-repoadmin#``` ./create_github_repo.sh ```  <br />
+>Repository name [aaron-repoadmin]: ```[ENTER]```  <br />
+>Repository description (optional): ```A custom bash script for linux terminal coding and committing to github repositories. Makes sharing code publicly or privately simple from a linux terminal once gh has been installed.```  <br />
+>Private repository? [y/N]: ```N```  <br />
+>GitHub username: ```aaronlumen```  <br />
+>Personal Access Token (will not echo):```                   ```  <br />
+>Remote type (ssh/https) [ssh]: ```^M```  <br />
+>* Creating GitHub repository using api integration: 'aaron-repoadmin'...  <br />
+>* Repository 'aaron-repoadmin' created on GitHub.  <br />
+>* Initializing local repository...  <br />
 >* git init  
 >* Initialized empty Git repository in /root/Github/aaron-repoadmin/.git/  
 >* git branch -M main  
